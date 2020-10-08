@@ -24,11 +24,6 @@ Features:
 • Use the stack feature to stack multiple widgets
 • Share your awesome edits easily with your friends
 
-■ Supports new widgets for iOS 14
-
-We appreciate and value your opinion
-You are welcome to contact us at support@email........
-
 Thank you.
 
 
@@ -40,5 +35,5 @@ Thank you.
 ### Contact us:
 
 Get in touch with me for support via: [Messenger](https://m.me/416305462459391)
-
+You are welcome to contact us at appfeedback118@yandex.com
 
