@@ -7,8 +7,8 @@
 Photos & Album on home screen
 
 <p align="center">
-<img src="widget_framed.png" width="250" height="445">
-<img src="config_framed.png" width="250" height="445">
+<img src="widget_framed.png" width="250" height="540">
+<img src="config_framed.png" width="250" height="540">
 </p>
 
 ### Description:
